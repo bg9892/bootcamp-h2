@@ -3,19 +3,19 @@
 
 ## Notes
 
-- My portfolio site
-- Site has an about me, portfolio, and contact page.
+- My portfolio site.
+- The site has an about me, portfolio, and contact page.
 - The Site is controlled with bootstrap.
 - The footer icons were made with font awesome.
 - The fonts are from google fonts.
 
 # Screenshots
 
-![Index](assets/images/screenshot1.png)
-![Index](assets/images/screenshot2.png)
-![Index](assets/images/screenshot3.png)
+![Index](Assets/Images/screenshot1.png)
+![Contact](Assets/Images/screenshot2.png)
+![Portfolio](Assets/Images/screenshot3.png)
 
 # Website link
 
-(https://www..com/)
+(https://bg9892.github.io/bootcamp-h2/)
 
