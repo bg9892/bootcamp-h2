@@ -1,5 +1,8 @@
 # Vanderbilt Coding Bootcamp homework assignment #2
 
+# Website link
+
+(https://bg9892.github.io/bootcamp-h2/)
 
 ## Notes
 
@@ -14,8 +17,4 @@
 ![Index](Assets/Images/screenshot1.png)
 ![Contact](Assets/Images/screenshot2.png)
 ![Portfolio](Assets/Images/screenshot3.png)
-
-# Website link
-
-(https://bg9892.github.io/bootcamp-h2/)
 
